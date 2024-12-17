@@ -34,7 +34,7 @@ Some fun facts about me:
 **Result**:
 * All tested parsers had a cosine similarity above 0.90 with the ground truth abstract with PDFPlumber being the only parser to be below 0.95
 * The greatest determinant in top performance was a parser's ability to parse out equations, tables, and images accurately and efficiently.
-* The top performers were LlamaParse (AI) and PyMuPDF (Traditional OCR)
+* The top performers were **LlamaParse** (AI) and **PyMuPDF** (Traditional OCR)
 
 
 
