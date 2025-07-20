@@ -57,7 +57,7 @@ Some fun facts about me:
 
 Email: vivzheng101@gmail.com
 
-LinkedIn: <a href="linkedin.com/in/vivian-zheng-vz1">linkedin.com/in/vivian-zheng-vz1</a>
+LinkedIn: <a href="www.linkedin.com/in/vivianzheng10">www.linkedin.com/in/vivianzheng10</a>
 
 <!--
 **Vzheng1/Vzheng1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
